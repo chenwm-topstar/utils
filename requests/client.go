@@ -15,7 +15,7 @@ import (
 	"github.com/goccy/go-json"
 	"github.com/google/go-querystring/query"
 
-	"cchome-admin-topstar/utils/lg"
+	"github.com/chenwm-topstar/utils/lg"
 
 	"github.com/ernesto-jimenez/httplogger"
 	"github.com/pkg/errors"

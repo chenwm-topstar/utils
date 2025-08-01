@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"cchome-admin-topstar/utils/sync/errgroup.v2"
+	"github.com/chenwm-topstar/utils/sync/errgroup.v2"
 
 	"github.com/garyburd/redigo/redis"
 )

@@ -4,7 +4,7 @@ import (
 	"io"
 	"sync"
 
-	"cchome-admin-topstar/utils/slices"
+	"github.com/chenwm-topstar/utils/slices"
 
 	"github.com/glycerine/rbuf"
 )

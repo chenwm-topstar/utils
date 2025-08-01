@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"cchome-admin-topstar/utils/internal/shared"
+	"github.com/chenwm-topstar/utils/internal/shared"
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"

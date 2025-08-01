@@ -1,6 +1,6 @@
 package redigo
 
-import "cchome-admin-topstar/utils/flags"
+import "github.com/chenwm-topstar/utils/flags"
 
 var (
 	rdsAddress        = flags.String("redis_address", "192.168.0.54:6379", "redis server address. default: redis:6379")

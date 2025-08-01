@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"cchome-admin-topstar/utils/lg"
+	"github.com/chenwm-topstar/utils/lg"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

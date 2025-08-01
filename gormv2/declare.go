@@ -4,7 +4,7 @@ import (
 	"context"
 	"database/sql"
 
-	"cchome-admin-topstar/utils/lg"
+	"github.com/chenwm-topstar/utils/lg"
 
 	"gorm.io/gorm"
 )

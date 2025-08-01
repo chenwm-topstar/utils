@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"cchome-admin-topstar/utils/lg"
+	"github.com/chenwm-topstar/utils/lg"
 
 	uuid "github.com/lnyyj/go.uuid"
 	"github.com/sony/sonyflake"

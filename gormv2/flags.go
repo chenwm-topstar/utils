@@ -3,7 +3,7 @@ package gormv2
 import (
 	"time"
 
-	"cchome-admin-topstar/utils/flags"
+	"github.com/chenwm-topstar/utils/flags"
 )
 
 var (

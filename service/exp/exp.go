@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"cchome-admin-topstar/utils/service/servicecontext"
+	"github.com/chenwm-topstar/utils/service/servicecontext"
 )
 
 func GetExperimentString(ctx context.Context, key, defaultValue string) string {

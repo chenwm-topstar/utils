@@ -3,7 +3,7 @@ package servicecontext
 import (
 	"context"
 
-	"cchome-admin-topstar/utils/lg"
+	"github.com/chenwm-topstar/utils/lg"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"

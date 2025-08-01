@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"cchome-admin-topstar/utils/lg"
+	"github.com/chenwm-topstar/utils/lg"
 
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
