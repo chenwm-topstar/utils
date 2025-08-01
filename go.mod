@@ -1,6 +1,8 @@
 module github.com/chenwm-topstar/utils
 
-go 1.19
+go 1.23.0
+
+toolchain go1.24.5
 
 require (
 	github.com/ernesto-jimenez/httplogger v0.0.0-20220128121225-117514c3f345
